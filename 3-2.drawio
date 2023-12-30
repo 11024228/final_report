@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:50:08.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8ylRgpAebuyDIErp4UWw" version="22.1.11" type="google">
+  <diagram name="第 1 页" id="SW6SmfLhiTko4katPqo_">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-1" value="2.角色(參與者):" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="738" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-2" value="管理員" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="738" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-3" value="1.目標" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="708" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-4" value="對前台顯示的商品信息進行維護等操作" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="708" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-5" value="3.事件流:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="768" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="798" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="828" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="858" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="888" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="918" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="948" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-12" value="3.1常規流程:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="798" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="828" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="858" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="888" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-16" value="3.2備選流程" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="918" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="948" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-18" value="(1)管理員登錄；" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="828" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-19" value="(2)進行對商品的添加和對商品的信息管理；" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="858" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-20" value="(3)返回修改結果" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="888" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-21" value="4.前置條件:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="988" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-22" value="5.後置條件:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1018" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-23" value="管理員能夠成功登陸" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="988" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-24" value="對商品信息進行管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1018" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(1)管理員登錄失敗,用例結束&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="948" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Thq1wlkymBCIWbpxuMSF-26" value="表3-2商品管理功能用例描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="674" width="194" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T07:14:51.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4Dlre7hZAVyBsgdranNC" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="3dHHUBAf3Xi9K0NsXOTT">
+    <mxGraphModel dx="1383" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;6.2單元測試&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry width="827" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;1.建立等價類別表&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="47" width="144" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-72" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=inherit;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="132" width="780" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-72">
+          <mxGeometry width="780" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-74" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;輸入案件&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-73">
+          <mxGeometry width="134" height="49" as="geometry">
+            <mxRectangle width="134" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-75" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;有效等價類&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-73">
+          <mxGeometry x="134" width="217" height="49" as="geometry">
+            <mxRectangle width="217" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-76" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;編號&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-73">
+          <mxGeometry x="351" width="74" height="49" as="geometry">
+            <mxRectangle width="74" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-77" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;無效等價類&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-73">
+          <mxGeometry x="425" width="279" height="49" as="geometry">
+            <mxRectangle width="279" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-78" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;編號&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-73">
+          <mxGeometry x="704" width="76" height="49" as="geometry">
+            <mxRectangle width="76" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-72">
+          <mxGeometry y="49" width="780" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-80" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;用戶名&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-79">
+          <mxGeometry width="134" height="49" as="geometry">
+            <mxRectangle width="134" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-81" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;使用者名稱合法&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-79">
+          <mxGeometry x="134" width="217" height="49" as="geometry">
+            <mxRectangle width="217" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-82" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-79">
+          <mxGeometry x="351" width="74" height="49" as="geometry">
+            <mxRectangle width="74" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-83" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;用戶名非法&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-79">
+          <mxGeometry x="425" width="279" height="49" as="geometry">
+            <mxRectangle width="279" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-84" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;4&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-79">
+          <mxGeometry x="704" width="76" height="49" as="geometry">
+            <mxRectangle width="76" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-72">
+          <mxGeometry y="98" width="780" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-86" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;密碼&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-85">
+          <mxGeometry width="134" height="49" as="geometry">
+            <mxRectangle width="134" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-87" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;密碼正確&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-85">
+          <mxGeometry x="134" width="217" height="49" as="geometry">
+            <mxRectangle width="217" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-88" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-85">
+          <mxGeometry x="351" width="74" height="49" as="geometry">
+            <mxRectangle width="74" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-89" value="密碼不正確" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-85">
+          <mxGeometry x="425" width="279" height="49" as="geometry">
+            <mxRectangle width="279" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-90" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;5&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-85">
+          <mxGeometry x="704" width="76" height="49" as="geometry">
+            <mxRectangle width="76" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-72">
+          <mxGeometry y="147" width="780" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-92" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;填寫資料完整&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-91">
+          <mxGeometry width="134" height="49" as="geometry">
+            <mxRectangle width="134" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-93" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;需要填寫正確&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-91">
+          <mxGeometry x="134" width="217" height="49" as="geometry">
+            <mxRectangle width="217" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-94" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;3&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-91">
+          <mxGeometry x="351" width="74" height="49" as="geometry">
+            <mxRectangle width="74" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-95" value="必要項未全部輸入" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-91">
+          <mxGeometry x="425" width="279" height="49" as="geometry">
+            <mxRectangle width="279" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM1sfuPLxxRXHxh6kApt-96" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;6&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;startSize=0;" vertex="1" parent="ZM1sfuPLxxRXHxh6kApt-91">
+          <mxGeometry x="704" width="76" height="49" as="geometry">
+            <mxRectangle width="76" height="49" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
